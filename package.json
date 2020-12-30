@@ -1,0 +1,16 @@
+{
+  "name": "uqamnotification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
